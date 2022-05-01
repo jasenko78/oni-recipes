@@ -1,2 +1,3 @@
 # oni-recipes
-html part final project
+this is the odimproject final html project
+no showing off, just following the instructions
